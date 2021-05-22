@@ -26,7 +26,7 @@ Once you have added that repository, run these commands to install ``catkin_tool
 .. code-block:: bash
 
     $ sudo apt-get update
-    $ sudo apt-get install python-catkin-tools
+    $ sudo apt-get install python3-catkin-tools
 
 Installing on other platforms with pip
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
